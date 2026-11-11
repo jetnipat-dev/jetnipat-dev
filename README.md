@@ -1,10 +1,11 @@
 # Hi there, I'm Jetnipat Janjom<span type="placeholder" placeholder-type="person"></span> 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at **University of Phayao**
-- 💡 Interested in **Software Engineering, Web Development**
-- 🎯 Current Goal: Learning Full-Stack Development 
-- 💬 Ask me about **C, Python, sql**
+- 🎓 Computer Science Student (Year 2) at **University of Phayao**
+- 💡 Interested in **Web Development** and **Cybersecurity**
+- 🎯 Current Goal: Learning Full-Stack Development & secure coding
+- 💬 Ask me about **C, Python, SQL**
+- 🌱 Looking for chances to learn, build real projects, and grow as a dev
 
 ---
 
@@ -20,17 +21,17 @@
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jetnipat-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetnipat-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jetnipat-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jetnipat-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
----
+--- 
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:68026068@up.ac.th)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1QQecbZerL/?mibextid=wwXIfr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jetnipat_pr)
